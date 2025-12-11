@@ -1,0 +1,14 @@
+C:\Users\Windows\Documents\PROGRAMAS #C\TareaSemana03_RegistroEstudiante\bin\Debug\net10.0\TareaSemana03_RegistroEstudiante.exe
+C:\Users\Windows\Documents\PROGRAMAS #C\TareaSemana03_RegistroEstudiante\bin\Debug\net10.0\TareaSemana03_RegistroEstudiante.deps.json
+C:\Users\Windows\Documents\PROGRAMAS #C\TareaSemana03_RegistroEstudiante\bin\Debug\net10.0\TareaSemana03_RegistroEstudiante.runtimeconfig.json
+C:\Users\Windows\Documents\PROGRAMAS #C\TareaSemana03_RegistroEstudiante\bin\Debug\net10.0\TareaSemana03_RegistroEstudiante.dll
+C:\Users\Windows\Documents\PROGRAMAS #C\TareaSemana03_RegistroEstudiante\bin\Debug\net10.0\TareaSemana03_RegistroEstudiante.pdb
+C:\Users\Windows\Documents\PROGRAMAS #C\TareaSemana03_RegistroEstudiante\obj\Debug\net10.0\TareaSemana03_RegistroEstudiante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\Documents\PROGRAMAS #C\TareaSemana03_RegistroEstudiante\obj\Debug\net10.0\TareaSemana03_RegistroEstudiante.AssemblyInfoInputs.cache
+C:\Users\Windows\Documents\PROGRAMAS #C\TareaSemana03_RegistroEstudiante\obj\Debug\net10.0\TareaSemana03_RegistroEstudiante.AssemblyInfo.cs
+C:\Users\Windows\Documents\PROGRAMAS #C\TareaSemana03_RegistroEstudiante\obj\Debug\net10.0\TareaSemana03_RegistroEstudiante.csproj.CoreCompileInputs.cache
+C:\Users\Windows\Documents\PROGRAMAS #C\TareaSemana03_RegistroEstudiante\obj\Debug\net10.0\TareaSemana03_RegistroEstudiante.dll
+C:\Users\Windows\Documents\PROGRAMAS #C\TareaSemana03_RegistroEstudiante\obj\Debug\net10.0\refint\TareaSemana03_RegistroEstudiante.dll
+C:\Users\Windows\Documents\PROGRAMAS #C\TareaSemana03_RegistroEstudiante\obj\Debug\net10.0\TareaSemana03_RegistroEstudiante.pdb
+C:\Users\Windows\Documents\PROGRAMAS #C\TareaSemana03_RegistroEstudiante\obj\Debug\net10.0\TareaSemana03_RegistroEstudiante.genruntimeconfig.cache
+C:\Users\Windows\Documents\PROGRAMAS #C\TareaSemana03_RegistroEstudiante\obj\Debug\net10.0\ref\TareaSemana03_RegistroEstudiante.dll
